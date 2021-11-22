@@ -1,0 +1,1 @@
+TriggerServerEvent("base:playerSpawned")
